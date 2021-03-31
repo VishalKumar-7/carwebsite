@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carwebsite/static/css/main.5cd80e1d.chunk.css",
+    "main.js": "/carwebsite/static/js/main.4c46e1b9.chunk.js",
+    "main.js.map": "/carwebsite/static/js/main.4c46e1b9.chunk.js.map",
+    "runtime-main.js": "/carwebsite/static/js/runtime-main.16d64124.js",
+    "runtime-main.js.map": "/carwebsite/static/js/runtime-main.16d64124.js.map",
+    "static/js/2.8d075ccb.chunk.js": "/carwebsite/static/js/2.8d075ccb.chunk.js",
+    "static/js/2.8d075ccb.chunk.js.map": "/carwebsite/static/js/2.8d075ccb.chunk.js.map",
+    "index.html": "/carwebsite/index.html",
+    "static/css/main.5cd80e1d.chunk.css.map": "/carwebsite/static/css/main.5cd80e1d.chunk.css.map",
+    "static/js/2.8d075ccb.chunk.js.LICENSE.txt": "/carwebsite/static/js/2.8d075ccb.chunk.js.LICENSE.txt",
+    "static/media/he.png": "/carwebsite/static/media/he.d1b393ce.png",
+    "static/media/svg-1.198c8835.svg": "/carwebsite/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.dd4c1feb.svg": "/carwebsite/static/media/svg-2.dd4c1feb.svg",
+    "static/media/svg-3.901616ef.svg": "/carwebsite/static/media/svg-3.901616ef.svg",
+    "static/media/video.4dd2cd24.mp4": "/carwebsite/static/media/video.4dd2cd24.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16d64124.js",
+    "static/js/2.8d075ccb.chunk.js",
+    "static/css/main.5cd80e1d.chunk.css",
+    "static/js/main.4c46e1b9.chunk.js"
+  ]
+}
